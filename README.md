@@ -28,9 +28,8 @@ Our dataset: https://api.covidtracking.com/v1/us/daily.csv
 
 Our Problem Statement: Which regression model can best predict the number of COVID-19 hospital admissions based on predictor variables?
  
-We choose to do Covid-19 because eventhough the pandemic is slowly recovering, we still should not be complacent. By doing a analysis on the dataset, 
-we can find out the main factor that causes the admission to the hospital. By learning which model is the best, we can use that for other factors (e.g. another virus)
-and better understand what it takes to predict the hospitalization rate. 
+We chose to do Covid-19 because even though the world is slowly recovering from the aftermaths of the pandemic, we believe that we should not be complacent and instead remain vigilant in tackling the pandemic. With strains on global healthcare systems and limitations in facilities, by doing an analysis on the dataset, we can find out what are the main factors that can predict the number of hospital admissions to the hospital. By learning which model is the best suited for this case study, we can make use of the skills and models learnt to apply in other similar/potential areas (e.g. another virus)
+and better understand what it takes to predict the hospitalisation rates. 
 
 
 
