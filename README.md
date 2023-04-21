@@ -24,7 +24,7 @@ This repository contains  the Jupyter Notebook and dataset we use to create the 
  #### 4. Regression Models
  #### 5. Conclusion 
 # 1. Problem Formulation 
-Our dataset: https://api.covidtracking.com/v1/us/daily.csv
+Our dataset: https://api.covidtracking.com/v1/us/daily.csv from The COVID Tracking Project
 
 Our Problem Statement: Which regression model can best predict the number of COVID-19 hospital admissions based on predictor variables?
  
@@ -65,3 +65,9 @@ Through this Mini-Project, our group has learnt many new functions and new regre
 the different function available. 
 
 Thank you. 
+
+References
+- https://covidtracking.com/
+- https://covidtracking.com/data/api
+- https://covid19.who.int/
+- https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2789848
