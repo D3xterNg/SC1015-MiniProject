@@ -53,7 +53,7 @@ Before we start, we had to split our data into train and test. We split it into 
 the same train and test sets across different executions. For model accuracy indicator, we used Explained Variance (R^2). It is a measure of prediction accuracy,
 it is the variance between actual & predicted values, the higher the R^2 value, the better the model
 
-1. Linear Regression Model: used to analyze the relationship between a dependent variable and one or more independent variables.
+1. Linear Regression Model: used to analyze the linear relationship between a dependent variable and one or more independent variables.
 2. Polynomial Regression Model: models the relationship between the independent variable and the dependent variable as an nth degree polynomial equation. 
 
 More details of the regression models are preseted in our notebook. 
